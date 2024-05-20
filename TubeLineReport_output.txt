@@ -1,0 +1,23 @@
+current_timestamp,line,status,disruption_reason
+2024-05-20T21:56:15Z,Bakerloo,Good Service,
+2024-05-20T21:56:15Z,Central,Good Service,
+2024-05-20T21:56:15Z,Circle,Good Service,
+2024-05-20T21:56:16Z,District,Good Service,
+2024-05-20T21:56:16Z,Hammersmith & City,Good Service,
+2024-05-20T21:56:16Z,Jubilee,Good Service,
+2024-05-20T21:56:16Z,Metropolitan,Good Service,
+2024-05-20T21:56:16Z,Northern,Minor Delays,Northern Line: Minor delays due to a shortage of trains. 
+2024-05-20T21:56:17Z,Piccadilly,Good Service,
+2024-05-20T21:56:17Z,Victoria,Good Service,
+2024-05-20T21:56:17Z,Waterloo & City,Good Service,
+2024-05-20T22:13:28Z,Bakerloo,Good Service,
+2024-05-20T22:13:28Z,Central,Good Service,
+2024-05-20T22:13:29Z,Circle,Good Service,
+2024-05-20T22:13:29Z,District,Good Service,
+2024-05-20T22:13:29Z,Hammersmith & City,Good Service,
+2024-05-20T22:13:29Z,Jubilee,Good Service,
+2024-05-20T22:13:29Z,Metropolitan,Good Service,
+2024-05-20T22:13:30Z,Northern,Minor Delays,Northern Line: Minor delays due to a shortage of trains. 
+2024-05-20T22:13:30Z,Piccadilly,Good Service,
+2024-05-20T22:13:30Z,Victoria,Good Service,
+2024-05-20T22:13:30Z,Waterloo & City,Good Service,

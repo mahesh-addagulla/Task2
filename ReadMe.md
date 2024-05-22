@@ -1,4 +1,4 @@
-#This Terraform Code Is Developed As Part of Azure B40 Batch
+#This Terraform Code is developed for KPMG Task3
 #Bash
 export ARM_CLIENT_ID="your_client_id"
 export ARM_CLIENT_SECRET="your_client_secret"
